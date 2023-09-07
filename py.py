@@ -1,0 +1,8 @@
+print("yo whats up")
+a=input()
+b=input()
+print(a.isalpha())
+print(b.isalpha())
+print(a.upper())
+print(a==b)
+print(a.capitalize() + " " + b.capitalize())
